@@ -1,0 +1,8 @@
+numpy
+pandas
+os
+matplotlib
+sklearn
+seaborn
+streamlit==0.60.0
+opencv-python-headless

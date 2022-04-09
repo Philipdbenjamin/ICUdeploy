@@ -1,6 +1,5 @@
 numpy
 pandas
-os
 matplotlib
 sklearn
 seaborn
